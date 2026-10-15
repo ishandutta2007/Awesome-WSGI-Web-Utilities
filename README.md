@@ -31,7 +31,7 @@
   - [WSGI vs. ASGI Architecture](#wsgi-vs-asgi-architecture)
 - [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
-- [⭐ Open-Source Projects (Ranked by GitHub Stars)](#-open-source-projects-ranked-by-github-stars)
+- [⭐ Open-Source Projects (Ranked by GitHub_Stars)](#-open-source-projects-ranked-by-github-stars)
   - [Full Star-Ranked Directory](#full-star-ranked-directory)
   - [Categorized Architecture Breakdown](#categorized-architecture-breakdown)
 - [🛠️ Composable Production Stack Recipes](#️-composable-production-stack-recipes)
@@ -105,75 +105,75 @@ The table below compiles leading hosted platforms and PaaS providers for deployi
 
 ---
 
-## ⭐ Open-Source Projects (Ranked by GitHub Stars)
+## ⭐ Open-Source Projects (Ranked by GitHub_Stars)
 
-Below is the definitive index of open-source Python WSGI & ASGI frameworks, web servers, protocol adapters, and middleware libraries. **Ranked in descending order by GitHub stargazers count**, with live social star badges linking directly to each project's stargazers community.
+Below is the definitive index of open-source Python WSGI & ASGI frameworks, web servers, protocol adapters, and middleware libraries. **Ranked in descending order by GitHub stargazers count**, with live social Stars_Badges linking directly to each project's stargazers community.
 
 ### Full Star-Ranked Directory
 
-1. **[FastAPI](https://github.com/fastapi/fastapi)** [![GitHub stars](https://img.shields.io/github/stars/fastapi/fastapi?style=social&color=white)](https://github.com/fastapi/fastapi/stargazers)  
+1. **[FastAPI](https://github.com/fastapi/fastapi)** [![GitHub_Stars](https://img.shields.io/github/stars/fastapi/fastapi?style=social&color=white)](https://github.com/fastapi/fastapi/stargazers)  
    Modern, high-performance ASGI web framework for building APIs with Python 3.8+ based on standard Python type hints, Pydantic data validation, and Starlette routing.
-2. **[Django](https://github.com/django/django)** [![GitHub stars](https://img.shields.io/github/stars/django/django?style=social&color=white)](https://github.com/django/django/stargazers)  
+2. **[Django](https://github.com/django/django)** [![GitHub_Stars](https://img.shields.io/github/stars/django/django?style=social&color=white)](https://github.com/django/django/stargazers)  
    The gold-standard batteries-included web framework for perfectionists with deadlines. Offers native WSGI application handlers (`django.core.wsgi`) alongside async ASGI view support.
-3. **[Flask](https://github.com/pallets/flask)** [![GitHub stars](https://img.shields.io/github/stars/pallets/flask?style=social&color=white)](https://github.com/pallets/flask/stargazers)  
+3. **[Flask](https://github.com/pallets/flask)** [![GitHub_Stars](https://img.shields.io/github/stars/pallets/flask?style=social&color=white)](https://github.com/pallets/flask/stargazers)  
    The quintessential Python WSGI microframework. Lightweight, extensible, and built directly atop Werkzeug WSGI primitives and Jinja templating.
-4. **[Tornado](https://github.com/tornadoweb/tornado)** [![GitHub stars](https://img.shields.io/github/stars/tornadoweb/tornado?style=social&color=white)](https://github.com/tornadoweb/tornado/stargazers)  
+4. **[Tornado](https://github.com/tornadoweb/tornado)** [![GitHub_Stars](https://img.shields.io/github/stars/tornadoweb/tornado?style=social&color=white)](https://github.com/tornadoweb/tornado/stargazers)  
    Pioneering asynchronous Python web framework and non-blocking networking library capable of handling tens of thousands of open WebSocket and long-poll connections.
-5. **[Sanic](https://github.com/sanic-org/sanic)** [![GitHub stars](https://img.shields.io/github/stars/sanic-org/sanic?style=social&color=white)](https://github.com/sanic-org/sanic/stargazers)  
+5. **[Sanic](https://github.com/sanic-org/sanic)** [![GitHub_Stars](https://img.shields.io/github/stars/sanic-org/sanic?style=social&color=white)](https://github.com/sanic-org/sanic/stargazers)  
    Blazing-fast asynchronous Python web framework and web server built on uvloop, engineered to execute fast HTTP responses at scale without external server wrappers.
-6. **[SQLModel](https://github.com/fastapi/sqlmodel)** [![GitHub stars](https://img.shields.io/github/stars/fastapi/sqlmodel?style=social&color=white)](https://github.com/fastapi/sqlmodel/stargazers)  
+6. **[SQLModel](https://github.com/fastapi/sqlmodel)** [![GitHub_Stars](https://img.shields.io/github/stars/fastapi/sqlmodel?style=social&color=white)](https://github.com/fastapi/sqlmodel/stargazers)  
    Library for interacting with SQL databases in Python applications, designed by the author of FastAPI to unify Pydantic models with SQLAlchemy ORM entities.
-7. **[aiohttp](https://github.com/aio-libs/aiohttp)** [![GitHub stars](https://img.shields.io/github/stars/aio-libs/aiohttp?style=social&color=white)](https://github.com/aio-libs/aiohttp/stargazers)  
+7. **[aiohttp](https://github.com/aio-libs/aiohttp)** [![GitHub_Stars](https://img.shields.io/github/stars/aio-libs/aiohttp?style=social&color=white)](https://github.com/aio-libs/aiohttp/stargazers)  
    Asynchronous HTTP client and server framework for Python `asyncio`, supporting server WebSockets, client connection pools, and middleware hooks.
-8. **[HTTPX](https://github.com/encode/httpx)** [![GitHub stars](https://img.shields.io/github/stars/encode/httpx?style=social&color=white)](https://github.com/encode/httpx/stargazers)  
+8. **[HTTPX](https://github.com/encode/httpx)** [![GitHub_Stars](https://img.shields.io/github/stars/encode/httpx?style=social&color=white)](https://github.com/encode/httpx/stargazers)  
    Next-generation HTTP client for Python offering synchronous and asynchronous APIs, with native in-memory WSGI and ASGI transport drivers for direct mock testing.
-9. **[Starlette](https://github.com/Kludex/starlette)** [![GitHub stars](https://img.shields.io/github/stars/Kludex/starlette?style=social&color=white)](https://github.com/Kludex/starlette/stargazers)  
+9. **[Starlette](https://github.com/Kludex/starlette)** [![GitHub_Stars](https://img.shields.io/github/stars/Kludex/starlette?style=social&color=white)](https://github.com/Kludex/starlette/stargazers)  
    Lightweight, modular ASGI framework and toolkit providing WebSocket support, in-process background tasks, ASGI middleware chains, and the core routing engine of FastAPI.
-10. **[uvloop](https://github.com/MagicStack/uvloop)** [![GitHub stars](https://img.shields.io/github/stars/MagicStack/uvloop?style=social&color=white)](https://github.com/MagicStack/uvloop/stargazers)  
+10. **[uvloop](https://github.com/MagicStack/uvloop)** [![GitHub_Stars](https://img.shields.io/github/stars/MagicStack/uvloop?style=social&color=white)](https://github.com/MagicStack/uvloop/stargazers)  
     Ultra-fast, drop-in replacement for Python's standard `asyncio` event loop implemented in Cython on top of `libuv`; achieves throughput comparable to Go and Node.js.
-11. **[Uvicorn](https://github.com/Kludex/uvicorn)** [![GitHub stars](https://img.shields.io/github/stars/Kludex/uvicorn?style=social&color=white)](https://github.com/Kludex/uvicorn/stargazers)  
+11. **[Uvicorn](https://github.com/Kludex/uvicorn)** [![GitHub_Stars](https://img.shields.io/github/stars/Kludex/uvicorn?style=social&color=white)](https://github.com/Kludex/uvicorn/stargazers)  
     Lightning-fast ASGI web server implementation powered by `uvloop` and `httptools`. The standard production and development server for FastAPI and Starlette apps.
-12. **[Gunicorn](https://github.com/benoitc/gunicorn)** [![GitHub stars](https://img.shields.io/github/stars/benoitc/gunicorn?style=social&color=white)](https://github.com/benoitc/gunicorn/stargazers)  
+12. **[Gunicorn](https://github.com/benoitc/gunicorn)** [![GitHub_Stars](https://img.shields.io/github/stars/benoitc/gunicorn?style=social&color=white)](https://github.com/benoitc/gunicorn/stargazers)  
     "Green Unicorn" UNIX pre-fork WSGI HTTP server ported from Ruby's Unicorn. Handles worker process lifecycle, heartbeat checks, signal handling, and Uvicorn worker boots.
-13. **[Falcon](https://github.com/falconry/falcon)** [![GitHub stars](https://img.shields.io/github/stars/falconry/falcon?style=social&color=white)](https://github.com/falconry/falcon/stargazers)  
+13. **[Falcon](https://github.com/falconry/falcon)** [![GitHub_Stars](https://img.shields.io/github/stars/falconry/falcon?style=social&color=white)](https://github.com/falconry/falcon/stargazers)  
     Uncompromisingly fast, minimalist Python web API framework supporting both WSGI and ASGI interfaces with minimal memory overhead and zero hidden magic.
-14. **[Bottle](https://github.com/bottlepy/bottle)** [![GitHub stars](https://img.shields.io/github/stars/bottlepy/bottle?style=social&color=white)](https://github.com/bottlepy/bottle/stargazers)  
+14. **[Bottle](https://github.com/bottlepy/bottle)** [![GitHub_Stars](https://img.shields.io/github/stars/bottlepy/bottle?style=social&color=white)](https://github.com/bottlepy/bottle/stargazers)  
     Legendary fast, simple, single-file WSGI microframework distributed as a single `.py` file with zero dependencies beyond the Python standard library.
-15. **[Litestar](https://github.com/litestar-org/litestar)** [![GitHub stars](https://img.shields.io/github/stars/litestar-org/litestar?style=social&color=white)](https://github.com/litestar-org/litestar/stargazers)  
+15. **[Litestar](https://github.com/litestar-org/litestar)** [![GitHub_Stars](https://img.shields.io/github/stars/litestar-org/litestar?style=social&color=white)](https://github.com/litestar-org/litestar/stargazers)  
     Production-grade ASGI framework engineered with strict typing, first-class dependency injection, automatic OpenAPI schema generation, and high IO throughput.
-16. **[Werkzeug](https://github.com/pallets/werkzeug)** [![GitHub stars](https://img.shields.io/github/stars/pallets/werkzeug?style=social&color=white)](https://github.com/pallets/werkzeug/stargazers)  
+16. **[Werkzeug](https://github.com/pallets/werkzeug)** [![GitHub_Stars](https://img.shields.io/github/stars/pallets/werkzeug?style=social&color=white)](https://github.com/pallets/werkzeug/stargazers)  
     The bedrock WSGI web application library powering Flask and the Pallets ecosystem. Implements HTTP request/response abstractions, URL routing, cookie handling, and an interactive browser debugger.
-17. **[gevent](https://github.com/gevent/gevent)** [![GitHub stars](https://img.shields.io/github/stars/gevent/gevent?style=social&color=white)](https://github.com/gevent/gevent/stargazers)  
+17. **[gevent](https://github.com/gevent/gevent)** [![GitHub_Stars](https://img.shields.io/github/stars/gevent/gevent?style=social&color=white)](https://github.com/gevent/gevent/stargazers)  
     Coroutine-based Python networking library that uses `greenlet` to provide a high-level synchronous API atop `libev` or `libuv`, featuring a high-performance WSGI server.
-18. **[web.py](https://github.com/webpy/webpy)** [![GitHub stars](https://img.shields.io/github/stars/webpy/webpy?style=social&color=white)](https://github.com/webpy/webpy/stargazers)  
+18. **[web.py](https://github.com/webpy/webpy)** [![GitHub_Stars](https://img.shields.io/github/stars/webpy/webpy?style=social&color=white)](https://github.com/webpy/webpy/stargazers)  
     Classic minimalist Python web framework originally authored by Aaron Swartz, designed to keep web development simple, clean, and unencumbered.
-19. **[Connexion](https://github.com/spec-first/connexion)** [![GitHub stars](https://img.shields.io/github/stars/spec-first/connexion?style=social&color=white)](https://github.com/spec-first/connexion/stargazers)  
+19. **[Connexion](https://github.com/spec-first/connexion)** [![GitHub_Stars](https://img.shields.io/github/stars/spec-first/connexion?style=social&color=white)](https://github.com/spec-first/connexion/stargazers)  
     Spec-first Python web framework built on top of Flask and ASGI that automatically handles request verification and endpoint routing mapped directly from OpenAPI/Swagger definitions.
-20. **[Pyramid](https://github.com/Pylons/pyramid)** [![GitHub stars](https://img.shields.io/github/stars/Pylons/pyramid?style=social&color=white)](https://github.com/Pylons/pyramid/stargazers)  
+20. **[Pyramid](https://github.com/Pylons/pyramid)** [![GitHub_Stars](https://img.shields.io/github/stars/Pylons/pyramid?style=social&color=white)](https://github.com/Pylons/pyramid/stargazers)  
     Open-source Python web framework from the Pylons Project that scales effortlessly from tiny single-file prototypes to massive multi-tenant enterprise deployments.
-21. **[Databases](https://github.com/encode/databases)** [![GitHub stars](https://img.shields.io/github/stars/encode/databases?style=social&color=white)](https://github.com/encode/databases/stargazers)  
+21. **[Databases](https://github.com/encode/databases)** [![GitHub_Stars](https://img.shields.io/github/stars/encode/databases?style=social&color=white)](https://github.com/encode/databases/stargazers)  
     Async database support for Python ASGI frameworks (FastAPI, Starlette, Sanic) enabling queries over asyncpg, aiomysql, and aiosqlite.
-22. **[Quart](https://github.com/pallets/quart)** [![GitHub stars](https://img.shields.io/github/stars/pallets/quart?style=social&color=white)](https://github.com/pallets/quart/stargazers)  
+22. **[Quart](https://github.com/pallets/quart)** [![GitHub_Stars](https://img.shields.io/github/stars/pallets/quart?style=social&color=white)](https://github.com/pallets/quart/stargazers)  
     Async Python web microframework implementing the exact same API as Flask, allowing seamless migration of Flask codebases into modern async ASGI environments.
-23. **[uWSGI](https://github.com/unbit/uwsgi)** [![GitHub stars](https://img.shields.io/github/stars/unbit/uwsgi?style=social&color=white)](https://github.com/unbit/uwsgi/stargazers)  
+23. **[uWSGI](https://github.com/unbit/uwsgi)** [![GitHub_Stars](https://img.shields.io/github/stars/unbit/uwsgi?style=social&color=white)](https://github.com/unbit/uwsgi/stargazers)  
     Extremely fast, highly configurable C-based application server container supporting WSGI, clustering, process management, spooling, and advanced caching layers.
-24. **[bjoern](https://github.com/jonashaag/bjoern)** [![GitHub stars](https://img.shields.io/github/stars/jonashaag/bjoern?style=social&color=white)](https://github.com/jonashaag/bjoern/stargazers)  
+24. **[bjoern](https://github.com/jonashaag/bjoern)** [![GitHub_Stars](https://img.shields.io/github/stars/jonashaag/bjoern?style=social&color=white)](https://github.com/jonashaag/bjoern/stargazers)  
     Screamingly fast, ultra-lightweight WSGI server written in pure C using Marc Lehmann's `libev` and Ryan Dahl's `http-parser`.
-25. **[Watchfiles](https://github.com/samuelcolvin/watchfiles)** [![GitHub stars](https://img.shields.io/github/stars/samuelcolvin/watchfiles?style=social&color=white)](https://github.com/samuelcolvin/watchfiles/stargazers)  
+25. **[Watchfiles](https://github.com/samuelcolvin/watchfiles)** [![GitHub_Stars](https://img.shields.io/github/stars/samuelcolvin/watchfiles?style=social&color=white)](https://github.com/samuelcolvin/watchfiles/stargazers)  
     High-performance file watching library for Python implemented in Rust, powering reload mechanisms across Uvicorn, Starlette, and FastAPI development workflows.
-26. **[Mangum](https://github.com/Kludex/mangum)** [![GitHub stars](https://img.shields.io/github/stars/Kludex/mangum?style=social&color=white)](https://github.com/Kludex/mangum/stargazers)  
+26. **[Mangum](https://github.com/Kludex/mangum)** [![GitHub_Stars](https://img.shields.io/github/stars/Kludex/mangum?style=social&color=white)](https://github.com/Kludex/mangum/stargazers)  
     Adapter for running ASGI applications (FastAPI, Starlette) directly within AWS Lambda and Amazon API Gateway / Application Load Balancers.
-27. **[CherryPy](https://github.com/cherrypy/cherrypy)** [![GitHub stars](https://img.shields.io/github/stars/cherrypy/cherrypy?style=social&color=white)](https://github.com/cherrypy/cherrypy/stargazers)  
+27. **[CherryPy](https://github.com/cherrypy/cherrypy)** [![GitHub_Stars](https://img.shields.io/github/stars/cherrypy/cherrypy?style=social&color=white)](https://github.com/cherrypy/cherrypy/stargazers)  
     Pythonic object-oriented web framework featuring an embedded, production-ready multi-threaded HTTP/WSGI web server.
-28. **[Hypercorn](https://github.com/pgjones/hypercorn)** [![GitHub stars](https://img.shields.io/github/stars/pgjones/hypercorn?style=social&color=white)](https://github.com/pgjones/hypercorn/stargazers)  
+28. **[Hypercorn](https://github.com/pgjones/hypercorn)** [![GitHub_Stars](https://img.shields.io/github/stars/pgjones/hypercorn?style=social&color=white)](https://github.com/pgjones/hypercorn/stargazers)  
     ASGI and WSGI web server supporting HTTP/1.1, HTTP/2, and experimental HTTP/3 (QUIC), compatible with both `asyncio` and `trio` worker runtimes.
-29. **[Waitress](https://github.com/Pylons/waitress)** [![GitHub stars](https://img.shields.io/github/stars/Pylons/waitress?style=social&color=white)](https://github.com/Pylons/waitress/stargazers)  
+29. **[Waitress](https://github.com/Pylons/waitress)** [![GitHub_Stars](https://img.shields.io/github/stars/Pylons/waitress?style=social&color=white)](https://github.com/Pylons/waitress/stargazers)  
     Pure-Python production WSGI server with zero C dependencies. Operates seamlessly cross-platform, offering dependable service on Windows and UNIX platforms.
-30. **[mod_wsgi](https://github.com/GrahamDumpleton/mod_wsgi)** [![GitHub stars](https://img.shields.io/github/stars/GrahamDumpleton/mod_wsgi?style=social&color=white)](https://github.com/GrahamDumpleton/mod_wsgi/stargazers)  
+30. **[mod_wsgi](https://github.com/GrahamDumpleton/mod_wsgi)** [![GitHub_Stars](https://img.shields.io/github/stars/GrahamDumpleton/mod_wsgi?style=social&color=white)](https://github.com/GrahamDumpleton/mod_wsgi/stargazers)  
     Apache HTTP Server module implementing the Python WSGI specification; a production standard for enterprise Apache web server hosting.
-31. **[a2wsgi](https://github.com/abersheeran/a2wsgi)** [![GitHub stars](https://img.shields.io/github/stars/abersheeran/a2wsgi?style=social&color=white)](https://github.com/abersheeran/a2wsgi/stargazers)  
+31. **[a2wsgi](https://github.com/abersheeran/a2wsgi)** [![GitHub_Stars](https://img.shields.io/github/stars/abersheeran/a2wsgi?style=social&color=white)](https://github.com/abersheeran/a2wsgi/stargazers)  
     Bi-directional protocol adapter allowing developers to run WSGI apps inside ASGI servers (e.g., Flask on Uvicorn) or ASGI apps inside WSGI servers.
-32. **[Paste](https://github.com/pasteorg/paste)** [![GitHub stars](https://img.shields.io/github/stars/pasteorg/paste?style=social&color=white)](https://github.com/pasteorg/paste/stargazers)  
+32. **[Paste](https://github.com/pasteorg/paste)** [![GitHub_Stars](https://img.shields.io/github/stars/pasteorg/paste?style=social&color=white)](https://github.com/pasteorg/paste/stargazers)  
     Foundational Python WSGI toolkit providing middleware components for request wrapping, dispatching, cascading, testing, and debugging.
 
 ---
